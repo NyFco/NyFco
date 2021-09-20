@@ -4,4 +4,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyFco&layout=compact&theme=synthwave&border_radius=25px&bg_color=30,0ff1ce,904e95&text_color=FFC0CB&title_color=FFFF00&icon_color=FFFF00&border_color=FFFF00)](https://github.com/NyFco/github-readme-stats)
  </P>
  
-  ![](https://komarev.com/ghpvc/?username=NyFco)
+  ![](https://komarev.com/ghpvc/?username=NyFco&label=PROFILE+VIEWS&style=flat&color=ff69b4)
