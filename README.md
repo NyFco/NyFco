@@ -1,4 +1,4 @@
-### <h1 align=center>🦄</h1>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyFco&show_icons=true&theme=synthwave&border_radius=25px&bg_color=30,0ff1ce,904e95&text_color=FFC0CB&title_color=FFFF00&icon_color=FFFF00&border_color=FFFF00)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyFco&layout=compact&theme=synthwave&border_radius=25px&bg_color=30,0ff1ce,904e95&text_color=FFC0CB&title_color=FFFF00&icon_color=FFFF00&border_color=FFFF00)](https://github.com/NyFco/github-readme-stats)
+A Front-end/Mobile developer with about 2 years of official experience.
+Proficient in React.js and React Native and experienced in technologies such as Typescript, Sass, git, and...
+Able to develop responsive web pages and experienced in using UI frameworks like Ant design and MUI.
+Familiar with Scrum methodologies such as Scrum and also able to work with tools like Figma.
