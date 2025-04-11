@@ -1,4 +1,5 @@
-A Front-end/Mobile developer with about 2 years of official experience.
-Proficient in React.js and React Native and experienced in technologies such as Typescript.
-Able to develop responsive web pages and experienced in using UI frameworks like Ant design and MUI.
-Familiar with Scrum methodologies such as Scrum and also able to work with tools like Figma.
+Front-end developer with over 3 years of experience in React and NextJS, specializing in 
+building responsive and dynamic web applications. Experienced in integrating Web3 
+technologies to deliver decentralized solutions. A self-driven learner with a keen eye for detail, 
+strong problem-solving skills, and a collaborative mindset, adept at working closely with back
+end and design teams to craft seamless user experiences.
